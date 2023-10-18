@@ -1,6 +1,7 @@
 # spammer-isr
 
-Code and data for the accepted paper at Information Systems Research (ISR-2022-047): "Are Neighbors Alike? A Semisupervised Probabilistic Collaborative Learning Model for Online Review Spammers Detection” 
+Code and data for the accepted paper at Information Systems Research:
+Zhiang Wu, Guannan Liu, Junjie Wu, Yong Tan. Are Neighbors Alike? A Semisupervised Probabilistic Collaborative Learning Model for Online Review Spammers Detection. Forthcoming in ISR.
 
 Repo Structure
 1. Data/ contains the Amazon data set used in the paper:
