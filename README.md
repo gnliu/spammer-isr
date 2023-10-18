@@ -1,8 +1,6 @@
 # spammer-isr
 
-Online Review Spammers Detection: An Implementation with Amazon Dataset
-
-Code and data for paper under review at Information Systems Research (ISR-2022-047): "Are Neighbors Alike? A Semi-supervised Probabilistic Ensemble for Online Review Spammers Detection.” 
+Code and data for the accepted paper at Information Systems Research (ISR-2022-047): "Are Neighbors Alike? A Semisupervised Probabilistic Collaborative Learning Model for Online Review Spammers Detection” 
 
 Repo Structure
 1. Data/ contains the Amazon data set used in the paper:
